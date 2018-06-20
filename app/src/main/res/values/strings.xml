@@ -2,5 +2,4 @@
     <string name="app_name">MyFirstApp</string>
     <string name="buttonAccept">Accept</string>
     <string name="textViewName">Name</string>
-    <string name="editTextName">Name</string>
 </resources>

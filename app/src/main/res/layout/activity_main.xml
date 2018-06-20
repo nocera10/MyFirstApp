@@ -20,7 +20,8 @@
         android:layout_height="wrap_content"
         android:hint="type your name"
         android:layout_marginBottom="50dp"
-        android:textSize="25sp"/>
+        android:textSize="25sp"
+        android:inputType="" />
 
     <Button
         android:id="@+id/buttonAccept"
